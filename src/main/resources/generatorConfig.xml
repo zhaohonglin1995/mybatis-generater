@@ -143,8 +143,8 @@
              -->
         </javaClientGenerator>
 
-        <table tableName="tables_name">
-            <property name="domainObjectName" value="WorkInfo"/>
+        <table tableName="">
+            <property name="domainObjectName" value=""/>
             <property name="enableSelectByExample" value="false"/>
             <property name="enableDeleteByExample" value="false"/>
             <property name="enableUpdateByExample" value="false"/>
